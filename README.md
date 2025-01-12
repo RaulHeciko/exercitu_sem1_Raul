@@ -9,4 +9,5 @@ Entitati:
 • Stocuri, Produse
 • Furnizori, date_furnizori
 
-![DataBase](C:\Users\hecik\OneDrive\Desktop\Exercitiu_db\exercitu_sem1_Raul/exercitiu_ora_abstract.drawio)
+
+![Diagram Description](exercitiu_ora_abstract.drawio)
