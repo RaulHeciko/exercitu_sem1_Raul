@@ -11,7 +11,6 @@ CREATE TABLE IF NOT EXISTS judet(
 	indicativ char(2) not null,
 	suprafata decimal null,
 	tara_fid integer not null,
-	primary key(fid),
 	foreign key (tara_fid) references tara(fid)
 );
 
