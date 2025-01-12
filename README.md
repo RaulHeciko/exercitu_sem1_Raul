@@ -10,4 +10,4 @@ Entitati:
 • Furnizori, date_furnizori
 
 
-![Diagram Description](exercitiu_ora_abstract.drawio)
+![Diagram Description](exercitiu_ora_abstract.png)
