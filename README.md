@@ -5,7 +5,7 @@ Exista o retea de supermarketuri care doreste sa isi mapeze locatiile existente 
 Entitati:
 • Tara, Judet, UAT
 • Market, tip_market
-• Vanzari, Clienti, date_client
+• Vanzari, Clienti, Persoane
 • Stocuri, Produse
 • Furnizori, date_furnizori
 
